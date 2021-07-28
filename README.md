@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+![Workflow](https://github.com/rkrishnavedic/devops101/actions/workflows/node.yml/badge.svg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+----------------------------------------
 ## Available Scripts
 
 In the project directory, you can run:
